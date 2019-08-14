@@ -1,0 +1,30 @@
+.btn {
+    background-color: rgb(128, 128, 128);
+    color: black;
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+.jumbotron {
+    background-color: rgb(128, 128, 128);
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-item {
+    background-color: black;
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: red;
+}
+
+li{
+    display:flex;
+    flex-direction: row;
+}
